@@ -1,8 +1,8 @@
 # top_10_flutter_widgets
 
-A new Flutter project.
+ A Flutter project for practicing commonly used widgets.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
